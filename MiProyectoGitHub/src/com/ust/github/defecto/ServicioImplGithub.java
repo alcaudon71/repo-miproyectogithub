@@ -28,6 +28,8 @@ public class ServicioImplGithub {
 		System.out.println("Commit 2 con modificaciones conflictivas");
 		
 		System.out.println("Vamos a trabajar sobre la rama Rebase");
+		
+		System.out.println("Primeras y ultimas modificaciones realizadas en rama rebase");
 
 		
 	}
