@@ -9,7 +9,9 @@ public class ServicioImplGithub {
 		
 		System.out.println("Conectar proyecto local con el repositorio de Github");
 		
-		System.out.println("A�adimos comentarios adicionales desde Eclipse");
+		System.out.println("Añadimos comentarios adicionales desde Eclipse");
+		
+		System.out.println("Añadimos comentarios adicionales desde GitHub");
 		
 	}
 
