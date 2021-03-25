@@ -19,6 +19,8 @@ public class ServicioImplGithub {
 		
 		System.out.println("Vamos a mergear esta rama con CONFLICTOS");
 		
+		System.out.println("Commit 2 con modificaciones conflictivas");
+		
 	}
 
 }
