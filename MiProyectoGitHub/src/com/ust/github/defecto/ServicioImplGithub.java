@@ -13,6 +13,8 @@ public class ServicioImplGithub {
 		
 		System.out.println("Añadimos comentarios adicionales desde GitHub");
 		
+		System.out.println("Vamos a mergear esta rama con la Master");
+		
 	}
 
 }
