@@ -17,9 +17,16 @@ public class ServicioImplGithub {
 		
 		System.out.println("Commit 2 preparado para mergear");
 		
+        // Rama master
 		System.out.println("Seguimos trabajando sobre la rama Master");
 		
 		System.out.println("Realizando modificaciones conflictivas sobre la rama Master");
+
+		// Rama mergeo_conflicto
+		System.out.println("Vamos a mergear esta rama con CONFLICTOS");
+		
+		System.out.println("Commit 2 con modificaciones conflictivas");
+
 		
 	}
 
