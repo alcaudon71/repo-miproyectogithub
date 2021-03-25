@@ -5,6 +5,7 @@ public class ServicioGithub {
 	String servicioGithub = "servicioGithub";
 	String servicioGit = "servicioGit";
 	
-	String impunidad = "impuntidad";
+	String impunidad = "impunidad";
+	String finImpunidad = "fin impunidad";
 	
 }
