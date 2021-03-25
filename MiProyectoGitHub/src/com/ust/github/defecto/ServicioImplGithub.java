@@ -19,6 +19,8 @@ public class ServicioImplGithub {
 		
 		System.out.println("Seguimos trabajando sobre la rama Master");
 		
+		System.out.println("Realizando modificaciones conflictivas sobre la rama Master");
+		
 	}
 
 }
